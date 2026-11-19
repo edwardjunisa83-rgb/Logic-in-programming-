@@ -1,2 +1,2 @@
-# Logic-in-programming-
+# PRO101_ASSIGNMENT 1_EDWARD HINDOWA JUNISA - 905006622
 Flowchart and pseudocodes data
