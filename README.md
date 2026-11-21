@@ -270,7 +270,8 @@ END
 A flowchart is a graphical representation of an algorithm. It uses standard symbols to show the sequence of
 operations and decisions.
 8.1 Main System Flowchart
- <img width="1212" height="1297" alt="Colorful Menu Management Flowchart" src="https://github.com/user-attachments/assets/e3338cc4-eb13-4496-8f5b-13134e14c955" />            
+   <img width="1212" height="1297" alt="713378735-e3338cc4-eb13-4496-8f5b-13134e14c955" src="https://github.com/user-attachments/assets/6f9390a8-5143-4588-8631-d902ec29b70a" />
+<img width="1212" height="1297" alt="Colorful Menu Management Flowchart" src="https://github.com/user-attachments/assets/e3338cc4-eb13-4496-8f5b-13134e14c955" />            
 Page 7
 PROG101 | Edward Hindowa Junisa | 905006622
 8.2 Flowchart Symbol Legend
@@ -302,7 +303,7 @@ Store information
 • Green: Successful operations.
 • Red: Errors or rejected information.
 • Black: Arrows and connecting lines.
-9. LOGICAL DESIGN
+10. LOGICAL DESIGN
 Logical design explains how information enters the system, how it is processed and what output is produced.
 9.1 Input
 • Resident name.
