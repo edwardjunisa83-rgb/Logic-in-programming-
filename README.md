@@ -268,40 +268,7 @@ END
 A flowchart is a graphical representation of an algorithm. It uses standard symbols to show the sequence of
 operations and decisions.
 8.1 Main System Flowchart
-             ( START )
-                 |
-                 v
-       / DISPLAY MAIN MENU /
-                 |
-                 v
-          < SELECT OPTION >
-                 |
-       +---------+----------+
-       |         |          |
-       v         v          v
-   [Register] [Request]  [Report]
-       |         |          |
-       v         v          v
-   /Enter     /Enter      /Generate
-   Details/   Details/     Report/
-       |         |          |
-       v         v          |
-   <Valid?>  <Valid?>        |
-    /   \     /   \          |
-  No    Yes  No   Yes        |
-  |      |   |     |         |
-  v      v   v     v         |
-[Error] [Save] [Error] [Save]|
-           |          |      |
-           +----------+------+
-                      |
-                      v
-                < Continue? >
-                  /       \
-                Yes        No
-                 |          |
-                 v          v
-             [Main Menu] ( END )
+ <img width="1212" height="1297" alt="Colorful Menu Management Flowchart" src="https://github.com/user-attachments/assets/e3338cc4-eb13-4496-8f5b-13134e14c955" />            
 Page 7
 PROG101 | Edward Hindowa Junisa | 905006622
 8.2 Flowchart Symbol Legend
