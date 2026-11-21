@@ -1,3 +1,5 @@
+<img width="375" height="214" alt="image" src="https://github.com/user-attachments/assets/b681cd00-78c0-43b8-8071-2a96e356de5e" />
+
 # PRO101_ASSIGNMENT 1_EDWARD HINDOWA JUNISA - 905006622
 Flowchart and pseudocodes data
 LIMKOKWING UNIVERSITY OF
